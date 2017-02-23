@@ -11,7 +11,8 @@ public class RepoEDD1 {
         System.out.println ("IDE Eclipse.");
         System.out.println ("Segunda modificación.");
         System.out.println ("IDE Netbeans.");
-        System.out.println ("Rama en Netbeans.");
+        System.out.println ("Rama en IDE Netbeans.");
+        System.out.println ("Rama en IDE Eclipse.");
         
 
     }
