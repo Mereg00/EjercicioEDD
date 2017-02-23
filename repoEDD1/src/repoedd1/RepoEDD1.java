@@ -9,7 +9,7 @@ public class RepoEDD1 {
         
         System.out.print ("Hello World.");
         System.out.println ("IDE Eclipse.");
-        System.out.println ("Segunda modificaci�n.");
+        System.out.println ("Segunda modificación.");
         System.out.println ("IDE Netbeans");
         System.out.pirntln ("Rama en Netbeans");
         
